@@ -1,5 +1,7 @@
-# -*- coding: utf-8 -*-import terms
+# -*- coding: utf-8 -*-
+import terms
 import json
+from elasticsearch import Elasticsearch
 from terms import createAttributeTerm
 from PyQt5 import QtWidgets, uic
 from PyQt5.QtWidgets import *
@@ -50,6 +52,19 @@ def SaveToJSON():
     data = dlg.textEdit.toPlainText()
     with open('data.json','w') as file:
         file.write(data)
+    
+def ESQuery():
+    #with open('data.json', 'r') as file:
+    #   query = file.read()
+    query = dlg.textEdit.toPlainText()
+
+    es = Elasticsearch([dlg.lineEdit_6.text()], http_auth=(dlg.lineEdit_8.text(), dlg.lineEdit_10.text()), verify_certs=False)
+    query_alias = es.indices.get_alias('*');
+    query_response = es.search(index="*",body = query)
+    print("%d documents found" % query_response['hits']['total'])
+    output = query_response['hits']['total']
+    show_message("Finished", "%d documents found" % query_response['hits']['total'])
+    dlg.textEdit.setText(query_response)
 
 
 
@@ -72,7 +87,11 @@ dlg.pushButton_3.clicked.connect(Compose)
 dlg.lineEdit_2.setReadOnly(True)
 dlg.lineEdit_5.setReadOnly(True)
 
+dlg.commandLinkButton.clicked.connect(ESQuery)
+
 dlg.show()
-app.exec()
- 
+app.exec()
+
+
+ 
 
