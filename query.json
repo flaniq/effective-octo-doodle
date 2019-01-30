@@ -1,0 +1,4023 @@
+{
+    "took": 72,
+    "timed_out": false,
+    "num_reduce_phases": 5,
+    "_shards": {
+        "total": 2183,
+        "successful": 2183,
+        "failed": 0
+    },
+    "hits": {
+        "total": 14975,
+        "max_score": 3.9330578,
+        "hits": [
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4822495",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4822495",
+                    "master_id": "1059c3644822ca1b",
+                    "supplement_key": 19519134,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "10MQS5MC00",
+                    "category_code": "AA",
+                    "category_name": "Desktops",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4822495",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO M710Q I3-7100T W10H MC00008162"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo ThinkCentre M710q 10MQ - Tiny desktop - 1 x Core i3 7100T / 3.4 GHz - RAM 4 GB - SSD 128 GB - HD Graphics 630 - GigE - Win 10 Home 64-bit - monitor: none"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo ThinkCentre M710q - tiny desktop - Core i3 7100T 3.4 GHz - 4 GB - 128 GB"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/47/9a/479a6aa7-efb6-442f-b01b-ce727e7e952f.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/3b/c3/3bc38940-afa1-46df-b25d-b7252fa736df.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/8c/a1/8ca1c245-d606-43d0-a6ce-77947c5172be.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/87/9f/879f2e6a-c4d4-4491-93ef-0c4ba8c195fb.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo ThinkCentre M710q",
+                                "value_id": 443730
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo ThinkCentre M710q 10MQ",
+                                "value_id": 2162288
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Mouse",
+                                "value_id": 1145,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 630",
+                                "value_id": 805979,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "30": [
+                            {
+                                "value_name": "Ultra small form factor",
+                                "value_id": 214459,
+                                "group_key": 7,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Ethernet",
+                                "value_id": 1382,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Fast Ethernet",
+                                "value_id": 1395,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Gigabit Ethernet",
+                                "value_id": 4746,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3106": [
+                            {
+                                "value_name": "Tiny",
+                                "value_id": 187636,
+                                "group_key": 7,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Dual-Core",
+                                "value_id": 138929,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i3",
+                                "value_id": 192734,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "1.32 kg",
+                                "value_id": 5558,
+                                "numeric_value": 1320.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "37": [
+                            {
+                                "value_name": "1",
+                                "value_id": 2103,
+                                "numeric_value": 1.0,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "432": [
+                            {
+                                "value_name": "Personal computer",
+                                "value_id": 1817,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4797": [
+                            {
+                                "value_name": "Trusted Platform Module (TPM 2.0) Security Chip",
+                                "value_id": 417819,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "501": [
+                            {
+                                "value_name": "Serial ATA-600",
+                                "value_id": 186562,
+                                "group_key": 18,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "4 GB",
+                                "value_id": 2147,
+                                "numeric_value": 4294967296.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6201": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 391944,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "6216": [
+                            {
+                                "value_name": "DisplayPort",
+                                "value_id": 392076,
+                                "group_key": 2,
+                                "set_no": 5
+                            },
+                            {
+                                "value_name": "Headphones/microphone",
+                                "value_id": 392101,
+                                "group_key": 2,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "LAN (Gigabit Ethernet)",
+                                "value_id": 392107,
+                                "group_key": 2,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "Microphone",
+                                "value_id": 392110,
+                                "group_key": 2,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "USB 3.1 Gen 1",
+                                "value_id": 720708,
+                                "group_key": 2,
+                                "set_no": 1
+                            }
+                        ],
+                        "73": [
+                            {
+                                "value_name": "1",
+                                "value_id": 2103,
+                                "numeric_value": 1.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2 2280",
+                                "value_id": 790407,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4851521",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4851521",
+                    "master_id": "105a0b2e2e8be7d2",
+                    "supplement_key": 19632700,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "80Y70062US",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4851521",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO YOGA 920 I7-8550U 1TB 16GB W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo Yoga 920-13IKB 80Y7 - Flip design - Core i7 8550U / 1.8 GHz - Win 10 Home 64-bit - 16 GB RAM - 1 TB SSD - 13.9\" IPS touchscreen 3840 x 2160 (Ultra HD 4K) - UHD Graphics 620 - Wi-Fi, Bluetooth - platinum"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo Yoga 920-13IKB - 13.9\" - Core i7 8550U - 16 GB RAM - 1 TB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/86/7f/867fdcca-e853-4cd4-82a5-4922570d6c61.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/f7/21/f721083e-9de0-4336-a4c1-4da5995805c5.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/fe/cb/fecb443f-5ae9-49a0-90ac-05fde2a200e6.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/e1/b4/e1b4a472-c289-496c-bee8-9bfc9d5d9fe4.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo Yoga 920-13IKB",
+                                "value_id": 462985
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo Yoga 920-13IKB 80Y7",
+                                "value_id": 2922441
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "13.9 in",
+                                "value_id": 556938,
+                                "numeric_value": 13.9,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "3840 x 2160",
+                                "value_id": 301118,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Digital pen",
+                                "value_id": 74144,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Digitizer",
+                                "value_id": 1147,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Touchpad",
+                                "value_id": 1160,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel UHD Graphics 620",
+                                "value_id": 880145,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Notebook",
+                                "value_id": 93611,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "10.8 hours",
+                                "value_id": 2672,
+                                "numeric_value": 38880.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "Lenovo App Explorer",
+                                "value_id": 878795,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Companion",
+                                "value_id": 410596,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo ID",
+                                "value_id": 721334,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Settings",
+                                "value_id": 411102,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "McAfee LiveSafe (30 days trial)",
+                                "value_id": 458213,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "1.37 kg",
+                                "value_id": 12789,
+                                "numeric_value": 1370.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4732": [
+                            {
+                                "value_name": "Fingerprint reader",
+                                "value_id": 201660,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB-C 3.1/Thunderbolt",
+                                "value_id": 898047,
+                                "group_key": 547,
+                                "set_no": 2
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Buttonless touchpad",
+                                "value_id": 322390,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Multi-touch touchpad",
+                                "value_id": 297129,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6438": [
+                            {
+                                "value_name": "360\u00b0 flip design",
+                                "value_id": 405138,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel UHD Graphics",
+                                "value_id": 880146,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7658": [
+                            {
+                                "value_name": "Yes (10-point multi-touch)",
+                                "value_id": 486929,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4861433",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4861433",
+                    "master_id": "105954db89f68c17",
+                    "supplement_key": 19284542,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "80YW000EUS",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4861433",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO Y920 I7-7820HK 1TB+512GB W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo Legion Y920-17IKB 80YW - Core i7 7820HK / 2.9 GHz - Win 10 Home 64-bit - 16 GB RAM - 512 GB SSD + 1 TB HDD - 17.3\" IPS 1920 x 1080 (Full HD) - GF GTX 1070 / HD Graphics 630 - Wi-Fi, Bluetooth - black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo Legion Y920-17IKB - 17.3\" - Core i7 7820HK - 16 GB RAM - 512 GB SSD + 1 TB HDD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/58/9e/589e13b4-9b43-4926-b2d7-70101fd92905.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/b3/66/b366a06e-5345-4943-8d0c-cf794f3e67d5.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/22/67/22672182-a2eb-4f22-88bd-4e011dced88a.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/bf/d9/bfd9b8cb-43df-4774-8702-f189c743c471.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo Legion Y920-17IKB",
+                                "value_id": 454452
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo Legion Y920-17IKB 80YW",
+                                "value_id": 2487694
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "17.3 in",
+                                "value_id": 11137,
+                                "numeric_value": 17.3,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1080",
+                                "value_id": 2035,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Touchpad",
+                                "value_id": 1160,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "Anti-glare",
+                                "value_id": 211219,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "241": [
+                            {
+                                "value_name": "8 GB",
+                                "value_id": 2639,
+                                "numeric_value": 8589934592.0,
+                                "group_key": 38,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "NVIDIA GeForce GTX 1070 / Intel HD Graphics 630",
+                                "value_id": 827021,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Notebook",
+                                "value_id": 93611,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2873": [
+                            {
+                                "value_name": "Intel Wireless Display (WiDi)",
+                                "value_id": 324193,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "302": [
+                            {
+                                "value_name": "M.2 Card",
+                                "value_id": 449868,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Ethernet",
+                                "value_id": 1382,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Fast Ethernet",
+                                "value_id": 1395,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Gigabit Ethernet",
+                                "value_id": 4746,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "3.5 hours",
+                                "value_id": 2168,
+                                "numeric_value": 12600.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "Lenovo Companion",
+                                "value_id": 410596,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo ID",
+                                "value_id": 721334,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Settings",
+                                "value_id": 411102,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "4.3 kg",
+                                "value_id": 2348,
+                                "numeric_value": 4300.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Hard drive password",
+                                "value_id": 3909,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "1.512 TB",
+                                "value_id": 10813,
+                                "numeric_value": 1662461581197.31,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5642": [
+                            {
+                                "value_name": "Yes",
+                                "value_id": 319562,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "DisplayPort",
+                                "value_id": 353120,
+                                "group_key": 547,
+                                "set_no": 6
+                            },
+                            {
+                                "value_name": "HDMI",
+                                "value_id": 353131,
+                                "group_key": 547,
+                                "set_no": 7
+                            },
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 5
+                            },
+                            {
+                                "value_name": "LAN",
+                                "value_id": 353136,
+                                "group_key": 547,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "USB-C 3.1/Thunderbolt 3/DisplayPort",
+                                "value_id": 863757,
+                                "group_key": 547,
+                                "set_no": 3
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Buttonless touchpad",
+                                "value_id": 322390,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Red backlighting",
+                                "value_id": 493865,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "NVIDIA Geforce GTX",
+                                "value_id": 474360,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4942209",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4942209",
+                    "master_id": "105a0b422e967b1d",
+                    "supplement_key": 19608794,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "ZA150289US",
+                    "category_code": "AB",
+                    "category_name": "Tablets & e-Book Readers",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4942209",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO YOGA BOOK X5-Z8550 128/4 W10P"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo YOGA Book ZA15 - Tablet - flip design - Atom x5 Z8550 / 1.44 GHz - Win 10 Home 64-bit - 4 GB RAM - 128 GB eMMC - 10.1\" IPS touchscreen 1920 x 1200 - HD Graphics 400 - Wi-Fi - carbon black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo YOGA Book - 10.1\" - Atom x5 Z8550 - 4 GB RAM - 128 GB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/1b/92/1b92eecb-e6a0-42af-bc6d-d7d531a4bbb7.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/9f/54/9f54f237-a073-4cc2-91f2-b22fa1fa978e.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/80/aa/80aac625-b0be-4a91-9215-9a5497924363.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/e8/e6/e8e67360-2562-4775-a39f-9137d756dbf8.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo YOGA Book",
+                                "value_id": 415843
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo YOGA Book ZA15",
+                                "value_id": 2039024
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "10.1 in",
+                                "value_id": 44652,
+                                "numeric_value": 10.1,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1200",
+                                "value_id": 2036,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Digitizer",
+                                "value_id": 1147,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "AnyPen technology",
+                                "value_id": 640428,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 400",
+                                "value_id": 741349,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Tablet",
+                                "value_id": 375395,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2874": [
+                            {
+                                "value_name": "GPS receiver",
+                                "value_id": 78503,
+                                "group_key": 253,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.0",
+                                "value_id": 317806,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "13 hours",
+                                "value_id": 2142,
+                                "numeric_value": 46800.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "ArtRage",
+                                "value_id": 136964,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Excel Mobile",
+                                "value_id": 646827,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Google Docs",
+                                "value_id": 537476,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "PowerPoint Mobile",
+                                "value_id": 646828,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "SHAREit",
+                                "value_id": 581981,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Word Mobile",
+                                "value_id": 646826,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Atom x5",
+                                "value_id": 646824,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "690 g",
+                                "value_id": 7867,
+                                "numeric_value": 690.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Vibration",
+                                "value_id": 581982,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "4 GB",
+                                "value_id": 2147,
+                                "numeric_value": 4294967296.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "Micro-HDMI",
+                                "value_id": 353138,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "Micro-USB 2.0",
+                                "value_id": 423869,
+                                "group_key": 547,
+                                "set_no": 1
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Capacitance Touch Sensor",
+                                "value_id": 294998,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Halo keyboard mode",
+                                "value_id": 786467,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Pressure sensitivity",
+                                "value_id": 94097,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6438": [
+                            {
+                                "value_name": "360\u00b0 flip design",
+                                "value_id": 405138,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7658": [
+                            {
+                                "value_name": "Yes (10-point multi-touch)",
+                                "value_id": 486929,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "eMMC",
+                                "value_id": 504488,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4930192",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4930192",
+                    "master_id": "105a520ff865f21e",
+                    "supplement_key": 19944177,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "20HRS14W00",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4930192",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO X1C5 I7-7500U 512/16 W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo ThinkPad X1 Carbon 20HR - Ultrabook - Core i7 7500U / 2.7 GHz - Win 10 Home 64-bit - 16 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe - 14\" IPS 1920 x 1080 (Full HD) - HD Graphics 620 - Wi-Fi, Bluetooth - black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo ThinkPad X1 Carbon - 14\" - Core i7 7500U - 16 GB RAM - 512 GB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/90/00/90006860-e57c-4486-93ba-27545a75596e.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/52/95/5295feae-a586-48b6-92ad-96c5dbc95d2b.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/d2/64/d26475c2-9d47-4bd3-beb3-bbf50400c819.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/40/50/40506de0-cc04-46d6-9aab-afe9135ae76c.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo ThinkPad X1 Carbon",
+                                "value_id": 275821
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo ThinkPad X1 Carbon 20HR",
+                                "value_id": 2082785
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "14 in",
+                                "value_id": 679,
+                                "numeric_value": 14.0,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1080",
+                                "value_id": 2035,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "TrackPoint",
+                                "value_id": 4547,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "UltraNav",
+                                "value_id": 79435,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "Anti-glare",
+                                "value_id": 211219,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 620",
+                                "value_id": 782849,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Ultrabook",
+                                "value_id": 362273,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2873": [
+                            {
+                                "value_name": "Gigabit Ethernet via optional Ethernet (RJ-45) adapter",
+                                "value_id": 741766,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "302": [
+                            {
+                                "value_name": "M.2 Card",
+                                "value_id": 449868,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "15.5 hours",
+                                "value_id": 3817,
+                                "numeric_value": 55800.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Dual-Core",
+                                "value_id": 138929,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "1.13 kg",
+                                "value_id": 38115,
+                                "numeric_value": 1130.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Hard drive password",
+                                "value_id": 3909,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "MIL-STD-810G tested",
+                                "value_id": 646363,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Power-on password",
+                                "value_id": 4119,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "RapidCharge",
+                                "value_id": 331474,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4732": [
+                            {
+                                "value_name": "Fingerprint reader",
+                                "value_id": 201660,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4797": [
+                            {
+                                "value_name": "Trusted Platform Module (TPM 2.0) Security Chip",
+                                "value_id": 417819,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "HDMI",
+                                "value_id": 353131,
+                                "group_key": 547,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 5
+                            },
+                            {
+                                "value_name": "Lenovo Ethernet extension connector",
+                                "value_id": 721353,
+                                "group_key": 547,
+                                "set_no": 6
+                            },
+                            {
+                                "value_name": "USB 3.1 Gen 1/USB 3.0",
+                                "value_id": 832294,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB 3.1 Gen 1/USB 3.0",
+                                "value_id": 832294,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "USB-C 3.1 Gen 2/Thunderbolt 3",
+                                "value_id": 831435,
+                                "group_key": 547,
+                                "set_no": 3
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Buttonless touchpad",
+                                "value_id": 322390,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Multi-touch touchpad",
+                                "value_id": 297129,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Spill-resistant",
+                                "value_id": 295170,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4976353",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4976353",
+                    "master_id": "105a982df2a8f9b2",
+                    "supplement_key": 20064012,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "F0CU006FUS",
+                    "category_code": "AA",
+                    "category_name": "Desktops",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4976353",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO 520S I57200U W10H 1TB/8G"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo 520S-23IKU F0CU - All-in-one - 1 x Core i5 7200U / 2.5 GHz - RAM 8 GB - HDD 1 TB - DVD-Writer - HD Graphics 620 - GigE - WLAN: Bluetooth 4.0, 802.11a/b/g/n/ac - Win 10 Home 64-bit - monitor: LED 23\" 1920 x 1080 (Full HD)"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo 520S-23IKU - all-in-one - Core i5 7200U 2.5 GHz - 8 GB - 1 TB - LED 23\""
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/81/90/8190c9a1-923d-4bcb-878a-d8e038bb3bc6.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/27/0f/270fccc0-58d2-4dd9-8181-51a648a629c4.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/89/3b/893bca67-71f8-4b01-995c-386220d77ae5.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/55/4e/554ea6ff-6769-4a0b-8c03-e28fb5f35ae9.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo 520S-23IKU",
+                                "value_id": 443535
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo 520S-23IKU F0CU",
+                                "value_id": 2159090
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "23 in",
+                                "value_id": 60435,
+                                "numeric_value": 23.0,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1080",
+                                "value_id": 2035,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Mouse",
+                                "value_id": 1145,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "Borderless",
+                                "value_id": 801071,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 620",
+                                "value_id": 782849,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "30": [
+                            {
+                                "value_name": "All-in-one",
+                                "value_id": 82425,
+                                "group_key": 7,
+                                "set_no": 0
+                            }
+                        ],
+                        "302": [
+                            {
+                                "value_name": "M.2 Card",
+                                "value_id": 449868,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.0",
+                                "value_id": 317806,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Ethernet",
+                                "value_id": 1382,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Fast Ethernet",
+                                "value_id": 1395,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Gigabit Ethernet",
+                                "value_id": 4746,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3106": [
+                            {
+                                "value_name": "All-in-one",
+                                "value_id": 89636,
+                                "group_key": 7,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Dual-Core",
+                                "value_id": 138929,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i5",
+                                "value_id": 181271,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "4.4 kg",
+                                "value_id": 2291,
+                                "numeric_value": 4400.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "37": [
+                            {
+                                "value_name": "1",
+                                "value_id": 2103,
+                                "numeric_value": 1.0,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "432": [
+                            {
+                                "value_name": "Personal computer",
+                                "value_id": 1817,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "8 GB",
+                                "value_id": 2639,
+                                "numeric_value": 8589934592.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6201": [
+                            {
+                                "value_name": "HDD",
+                                "value_id": 391945,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "6216": [
+                            {
+                                "value_name": "HDMI input/output combo",
+                                "value_id": 783071,
+                                "group_key": 2,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "Headphones/microphone",
+                                "value_id": 392101,
+                                "group_key": 2,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "LAN (Gigabit Ethernet)",
+                                "value_id": 392107,
+                                "group_key": 2,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 392159,
+                                "group_key": 2,
+                                "set_no": 1
+                            }
+                        ],
+                        "73": [
+                            {
+                                "value_name": "1",
+                                "value_id": 2103,
+                                "numeric_value": 1.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_207a4f31a60381ba630ae03c547e6b61_v15",
+                "_type": "product",
+                "_id": "4981450",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4981450",
+                    "master_id": "105a26a7249a508f",
+                    "supplement_key": 19775199,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "80VR00CJUS",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4981450",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO Y720 I7-7700HQ 512/16 W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo Legion Y720-15IKB 80VR - Core i7 7700HQ / 2.8 GHz - Win 10 Home 64-bit - 16 GB RAM - 512 GB SSD + 1 TB HDD - 15.6\" IPS 1920 x 1080 (Full HD) - GF GTX 1060 / HD Graphics 630 - Wi-Fi, Bluetooth - black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo Legion Y720-15IKB - 15.6\" - Core i7 7700HQ - 16 GB RAM - 512 GB SSD + 1 TB HDD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/c5/65/c5659600-487d-41cd-812e-4a413c79c6c8.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1f/17/1f17e7ff-11d8-4ff3-bdfe-81b90d007747.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/d1/f5/d1f58e42-e25c-434b-a27e-a46264005f69.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/2c/9c/2c9ce928-96b6-481d-951e-81edc529ee44.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo Legion Y720-15IKB",
+                                "value_id": 444528
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo Legion Y720-15IKB 80VR",
+                                "value_id": 2165096
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "15.6 in",
+                                "value_id": 256223,
+                                "numeric_value": 15.6,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1080",
+                                "value_id": 2035,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Touchpad",
+                                "value_id": 1160,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "Anti-glare",
+                                "value_id": 211219,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "241": [
+                            {
+                                "value_name": "6 GB",
+                                "value_id": 2146,
+                                "numeric_value": 6442450944.0,
+                                "group_key": 38,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "NVIDIA GeForce GTX 1060 / Intel HD Graphics 630",
+                                "value_id": 825286,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Notebook",
+                                "value_id": 93611,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2873": [
+                            {
+                                "value_name": "Xbox IC antennas",
+                                "value_id": 881953,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "302": [
+                            {
+                                "value_name": "M.2 Card",
+                                "value_id": 449868,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Ethernet",
+                                "value_id": 1382,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Fast Ethernet",
+                                "value_id": 1395,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Gigabit Ethernet",
+                                "value_id": 4746,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "5 hours",
+                                "value_id": 2091,
+                                "numeric_value": 18000.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "Lenovo Companion",
+                                "value_id": 410596,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo ID",
+                                "value_id": 721334,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Nerve Sense",
+                                "value_id": 912805,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo OneKey Recovery",
+                                "value_id": 252480,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "3.2 kg",
+                                "value_id": 2245,
+                                "numeric_value": 3200.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Hard drive password",
+                                "value_id": 3909,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Power-on password",
+                                "value_id": 4119,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "1.512 TB",
+                                "value_id": 10813,
+                                "numeric_value": 1662461581197.31,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5642": [
+                            {
+                                "value_name": "Yes",
+                                "value_id": 319562,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "HDMI",
+                                "value_id": 353131,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 5
+                            },
+                            {
+                                "value_name": "LAN",
+                                "value_id": 353136,
+                                "group_key": 547,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "Mini DisplayPort",
+                                "value_id": 353140,
+                                "group_key": 547,
+                                "set_no": 6
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 7
+                            },
+                            {
+                                "value_name": "USB-C 3.1/Thunderbolt/DisplayPort/HDMI",
+                                "value_id": 856425,
+                                "group_key": 547,
+                                "set_no": 3
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Programmable buttons",
+                                "value_id": 9236,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "NVIDIA Geforce GTX",
+                                "value_id": 474360,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_37cfa655ad8cdceaea88b1cf52e9b9c0_v12",
+                "_type": "product",
+                "_id": "4930192",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4930192",
+                    "master_id": "105a520ff865f21e",
+                    "supplement_key": 19944177,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "20HRS14W00",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4930192",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO X1C5 I7-7500U 512/16 W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo ThinkPad X1 Carbon 20HR - Ultrabook - Core i7 7500U / 2.7 GHz - Win 10 Home 64-bit - 16 GB RAM - 512 GB SSD TCG Opal Encryption 2, NVMe - 14\" IPS 1920 x 1080 (Full HD) - HD Graphics 620 - Wi-Fi, Bluetooth - black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo ThinkPad X1 Carbon - 14\" - Core i7 7500U - 16 GB RAM - 512 GB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/90/00/90006860-e57c-4486-93ba-27545a75596e.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/52/95/5295feae-a586-48b6-92ad-96c5dbc95d2b.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/d2/64/d26475c2-9d47-4bd3-beb3-bbf50400c819.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/40/50/40506de0-cc04-46d6-9aab-afe9135ae76c.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo ThinkPad X1 Carbon",
+                                "value_id": 275821
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo ThinkPad X1 Carbon 20HR",
+                                "value_id": 2082785
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "14 in",
+                                "value_id": 679,
+                                "numeric_value": 14.0,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1080",
+                                "value_id": 2035,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "TrackPoint",
+                                "value_id": 4547,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "UltraNav",
+                                "value_id": 79435,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "Anti-glare",
+                                "value_id": 211219,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 620",
+                                "value_id": 782849,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Ultrabook",
+                                "value_id": 362273,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2873": [
+                            {
+                                "value_name": "Gigabit Ethernet via optional Ethernet (RJ-45) adapter",
+                                "value_id": 741766,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "302": [
+                            {
+                                "value_name": "M.2 Card",
+                                "value_id": 449868,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "15.5 hours",
+                                "value_id": 3817,
+                                "numeric_value": 55800.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Dual-Core",
+                                "value_id": 138929,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "1.13 kg",
+                                "value_id": 38115,
+                                "numeric_value": 1130.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Hard drive password",
+                                "value_id": 3909,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "MIL-STD-810G tested",
+                                "value_id": 646363,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Power-on password",
+                                "value_id": 4119,
+                                "group_key": 31,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "RapidCharge",
+                                "value_id": 331474,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4732": [
+                            {
+                                "value_name": "Fingerprint reader",
+                                "value_id": 201660,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4797": [
+                            {
+                                "value_name": "Trusted Platform Module (TPM 2.0) Security Chip",
+                                "value_id": 417819,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "HDMI",
+                                "value_id": 353131,
+                                "group_key": 547,
+                                "set_no": 4
+                            },
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 5
+                            },
+                            {
+                                "value_name": "Lenovo Ethernet extension connector",
+                                "value_id": 721353,
+                                "group_key": 547,
+                                "set_no": 6
+                            },
+                            {
+                                "value_name": "USB 3.1 Gen 1/USB 3.0",
+                                "value_id": 832294,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB 3.1 Gen 1/USB 3.0",
+                                "value_id": 832294,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "USB-C 3.1 Gen 2/Thunderbolt 3",
+                                "value_id": 831435,
+                                "group_key": 547,
+                                "set_no": 3
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Buttonless touchpad",
+                                "value_id": 322390,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Multi-touch touchpad",
+                                "value_id": 297129,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Spill-resistant",
+                                "value_id": 295170,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "512 GB",
+                                "value_id": 257,
+                                "numeric_value": 549755813888.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_37cfa655ad8cdceaea88b1cf52e9b9c0_v12",
+                "_type": "product",
+                "_id": "4942209",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4942209",
+                    "master_id": "105a0b422e967b1d",
+                    "supplement_key": 19608794,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "ZA150289US",
+                    "category_code": "AB",
+                    "category_name": "Tablets & e-Book Readers",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4942209",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO YOGA BOOK X5-Z8550 128/4 W10P"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo YOGA Book ZA15 - Tablet - flip design - Atom x5 Z8550 / 1.44 GHz - Win 10 Home 64-bit - 4 GB RAM - 128 GB eMMC - 10.1\" IPS touchscreen 1920 x 1200 - HD Graphics 400 - Wi-Fi - carbon black"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo YOGA Book - 10.1\" - Atom x5 Z8550 - 4 GB RAM - 128 GB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/1b/92/1b92eecb-e6a0-42af-bc6d-d7d531a4bbb7.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/9f/54/9f54f237-a073-4cc2-91f2-b22fa1fa978e.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/80/aa/80aac625-b0be-4a91-9215-9a5497924363.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/e8/e6/e8e67360-2562-4775-a39f-9137d756dbf8.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo YOGA Book",
+                                "value_id": 415843
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo YOGA Book ZA15",
+                                "value_id": 2039024
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "10.1 in",
+                                "value_id": 44652,
+                                "numeric_value": 10.1,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "1920 x 1200",
+                                "value_id": 2036,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Digitizer",
+                                "value_id": 1147,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "2337": [
+                            {
+                                "value_name": "AnyPen technology",
+                                "value_id": 640428,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel HD Graphics 400",
+                                "value_id": 741349,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Tablet",
+                                "value_id": 375395,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "2874": [
+                            {
+                                "value_name": "GPS receiver",
+                                "value_id": 78503,
+                                "group_key": 253,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.0",
+                                "value_id": 317806,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "13 hours",
+                                "value_id": 2142,
+                                "numeric_value": 46800.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "ArtRage",
+                                "value_id": 136964,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Excel Mobile",
+                                "value_id": 646827,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Google Docs",
+                                "value_id": 537476,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "PowerPoint Mobile",
+                                "value_id": 646828,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "SHAREit",
+                                "value_id": 581981,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Word Mobile",
+                                "value_id": 646826,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Atom x5",
+                                "value_id": 646824,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "690 g",
+                                "value_id": 7867,
+                                "numeric_value": 690.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Vibration",
+                                "value_id": 581982,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "4 GB",
+                                "value_id": 2147,
+                                "numeric_value": 4294967296.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "Micro-HDMI",
+                                "value_id": 353138,
+                                "group_key": 547,
+                                "set_no": 2
+                            },
+                            {
+                                "value_name": "Micro-USB 2.0",
+                                "value_id": 423869,
+                                "group_key": 547,
+                                "set_no": 1
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Capacitance Touch Sensor",
+                                "value_id": 294998,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Halo keyboard mode",
+                                "value_id": 786467,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Pressure sensitivity",
+                                "value_id": 94097,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6438": [
+                            {
+                                "value_name": "360\u00b0 flip design",
+                                "value_id": 405138,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel HD Graphics",
+                                "value_id": 474368,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "128 GB",
+                                "value_id": 2706,
+                                "numeric_value": 137438953472.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7658": [
+                            {
+                                "value_name": "Yes (10-point multi-touch)",
+                                "value_id": 486929,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "eMMC",
+                                "value_id": 504488,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            },
+            {
+                "_index": "gs_product_37cfa655ad8cdceaea88b1cf52e9b9c0_v12",
+                "_type": "product",
+                "_id": "4851521",
+                "_score": 3.9330578,
+                "_source": {
+                    "id": "4851521",
+                    "master_id": "105a0b2e2e8be7d2",
+                    "supplement_key": 19632700,
+                    "manufacturer_id": "11178",
+                    "manufacturer_name": "Lenovo",
+                    "manufacturer_pn": "80Y70062US",
+                    "category_code": "AB",
+                    "category_name": "Notebooks",
+                    "url": "http://www.cdw.com/shop/products/default.aspx?edc=4851521",
+                    "descriptions": [
+                        {
+                            "desc_type": "productname",
+                            "description": "LVO YOGA 920 I7-8550U 1TB 16GB W10H"
+                        },
+                        {
+                            "desc_type": "std",
+                            "description": "Lenovo Yoga 920-13IKB 80Y7 - Flip design - Core i7 8550U / 1.8 GHz - Win 10 Home 64-bit - 16 GB RAM - 1 TB SSD - 13.9\" IPS touchscreen 3840 x 2160 (Ultra HD 4K) - UHD Graphics 620 - Wi-Fi, Bluetooth - platinum"
+                        },
+                        {
+                            "desc_type": "short",
+                            "description": "Lenovo Yoga 920-13IKB - 13.9\" - Core i7 8550U - 16 GB RAM - 1 TB SSD"
+                        }
+                    ],
+                    "images": [
+                        {
+                            "image_type_id": 1,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/86/7f/867fdcca-e853-4cd4-82a5-4922570d6c61.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/f7/21/f721083e-9de0-4336-a4c1-4da5995805c5.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/fe/cb/fecb443f-5ae9-49a0-90ac-05fde2a200e6.jpg",
+                            "large_image": "https://cdn.cnetcontent.com/e1/b4/e1b4a472-c289-496c-bee8-9bfc9d5d9fe4.jpg"
+                        },
+                        {
+                            "image_type_id": 3,
+                            "thumbnail_image": "https://cdn.cnetcontent.com/ff/12/ff12a08b-a83c-4eed-b310-826a39da2cbc.jpg",
+                            "small_image": "https://cdn.cnetcontent.com/1e/2b/1e2bf9b2-ea32-403e-af1e-e05fe70baab9.jpg",
+                            "medium_image": "https://cdn.cnetcontent.com/bb/1d/bb1d8ca8-0be7-4672-8157-e115cd425732.jpg"
+                        }
+                    ],
+                    "attributes": {
+                        "600": [
+                            {
+                                "value_name": "Lenovo Yoga 920-13IKB",
+                                "value_id": 462985
+                            }
+                        ],
+                        "601": [
+                            {
+                                "value_name": "Lenovo Yoga 920-13IKB 80Y7",
+                                "value_id": 2922441
+                            }
+                        ],
+                        "140": [
+                            {
+                                "value_name": "13.9 in",
+                                "value_id": 556938,
+                                "numeric_value": 13.9,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "149": [
+                            {
+                                "value_name": "3840 x 2160",
+                                "value_id": 301118,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "16": [
+                            {
+                                "value_name": "Windows 10 Home 64-bit Edition",
+                                "value_id": 641177,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "218": [
+                            {
+                                "value_name": "Digital pen",
+                                "value_id": 74144,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Digitizer",
+                                "value_id": 1147,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Keyboard",
+                                "value_id": 1146,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Touchpad",
+                                "value_id": 1160,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "247": [
+                            {
+                                "value_name": "Intel UHD Graphics 620",
+                                "value_id": 880145,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "2797": [
+                            {
+                                "value_name": "Notebook",
+                                "value_id": 93611,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "306": [
+                            {
+                                "value_name": "Bluetooth 4.1",
+                                "value_id": 557263,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11a",
+                                "value_id": 49915,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11ac",
+                                "value_id": 378133,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11b",
+                                "value_id": 39938,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11g",
+                                "value_id": 54390,
+                                "group_key": 24,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "IEEE 802.11n",
+                                "value_id": 185206,
+                                "group_key": 24,
+                                "set_no": 0
+                            }
+                        ],
+                        "3315": [
+                            {
+                                "value_name": "IPS",
+                                "value_id": 123409,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "341": [
+                            {
+                                "value_name": "10.8 hours",
+                                "value_id": 2672,
+                                "numeric_value": 38880.0,
+                                "group_key": 37,
+                                "set_no": 0
+                            }
+                        ],
+                        "344": [
+                            {
+                                "value_name": "Lenovo App Explorer",
+                                "value_id": 878795,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Companion",
+                                "value_id": 410596,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo ID",
+                                "value_id": 721334,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Lenovo Settings",
+                                "value_id": 411102,
+                                "group_key": 27,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "McAfee LiveSafe (30 days trial)",
+                                "value_id": 458213,
+                                "group_key": 27,
+                                "set_no": 0
+                            }
+                        ],
+                        "3483": [
+                            {
+                                "value_name": "Quad-Core",
+                                "value_id": 162138,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "35": [
+                            {
+                                "value_name": "Core i7",
+                                "value_id": 270854,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "357": [
+                            {
+                                "value_name": "1.37 kg",
+                                "value_id": 12789,
+                                "numeric_value": 1370.0,
+                                "group_key": 29,
+                                "set_no": 0
+                            }
+                        ],
+                        "374": [
+                            {
+                                "value_name": "Administrator password",
+                                "value_id": 3906,
+                                "group_key": 31,
+                                "set_no": 0
+                            }
+                        ],
+                        "39": [
+                            {
+                                "value_name": "Intel",
+                                "value_id": 242,
+                                "group_key": 8,
+                                "set_no": 0
+                            }
+                        ],
+                        "4732": [
+                            {
+                                "value_name": "Fingerprint reader",
+                                "value_id": 201660,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "4883": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "53": [
+                            {
+                                "value_name": "16 GB",
+                                "value_id": 2272,
+                                "numeric_value": 17179869184.0,
+                                "group_key": 10,
+                                "set_no": 0
+                            }
+                        ],
+                        "5470": [
+                            {
+                                "value_name": "Windows 10",
+                                "value_id": 641175,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5471": [
+                            {
+                                "value_name": "Windows 10 Home",
+                                "value_id": 641176,
+                                "group_key": 3,
+                                "set_no": 0
+                            }
+                        ],
+                        "5780": [
+                            {
+                                "value_name": "SSD",
+                                "value_id": 352671,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "5791": [
+                            {
+                                "value_name": "Headphone/microphone combo jack",
+                                "value_id": 353134,
+                                "group_key": 547,
+                                "set_no": 3
+                            },
+                            {
+                                "value_name": "USB 3.0",
+                                "value_id": 353156,
+                                "group_key": 547,
+                                "set_no": 1
+                            },
+                            {
+                                "value_name": "USB-C 3.1/Thunderbolt",
+                                "value_id": 898047,
+                                "group_key": 547,
+                                "set_no": 2
+                            }
+                        ],
+                        "587": [
+                            {
+                                "value_name": "Buttonless touchpad",
+                                "value_id": 322390,
+                                "group_key": 17,
+                                "set_no": 0
+                            },
+                            {
+                                "value_name": "Multi-touch touchpad",
+                                "value_id": 297129,
+                                "group_key": 17,
+                                "set_no": 0
+                            }
+                        ],
+                        "606": [
+                            {
+                                "value_name": "Lenovo",
+                                "value_id": 352044,
+                                "group_key": 63,
+                                "set_no": 0
+                            }
+                        ],
+                        "6438": [
+                            {
+                                "value_name": "360\u00b0 flip design",
+                                "value_id": 405138,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "6751": [
+                            {
+                                "value_name": "Windows",
+                                "value_id": 416975,
+                                "group_key": 50,
+                                "set_no": 0
+                            }
+                        ],
+                        "7598": [
+                            {
+                                "value_name": "Intel UHD Graphics",
+                                "value_id": 880146,
+                                "group_key": 19,
+                                "set_no": 0
+                            }
+                        ],
+                        "76": [
+                            {
+                                "value_name": "1 TB",
+                                "value_id": 2103,
+                                "numeric_value": 1099511627776.0,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ],
+                        "7658": [
+                            {
+                                "value_name": "Yes (10-point multi-touch)",
+                                "value_id": 486929,
+                                "group_key": 14,
+                                "set_no": 0
+                            }
+                        ],
+                        "7705": [
+                            {
+                                "value_name": "M.2",
+                                "value_id": 501035,
+                                "group_key": 12,
+                                "set_no": 0
+                            }
+                        ]
+                    },
+                    "hero": false,
+                    "priority": 0
+                }
+            }
+        ]
+    }
+}

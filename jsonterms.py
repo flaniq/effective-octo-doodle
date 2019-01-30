@@ -64,7 +64,12 @@ def ESQuery():
     print("%d documents found" % query_response['hits']['total'])
     output = query_response['hits']['total']
     show_message("Finished", "%d documents found" % query_response['hits']['total'])
-    dlg.textEdit.setText(query_response)
+    return query_response
+    
+def SaveQuery():
+    with open('query.json', 'w') as file:
+        json.dump(ESQuery(), file, indent = 4)
+    
 
 
 
@@ -88,6 +93,7 @@ dlg.lineEdit_2.setReadOnly(True)
 dlg.lineEdit_5.setReadOnly(True)
 
 dlg.commandLinkButton.clicked.connect(ESQuery)
+dlg.commandLinkButton_2.clicked.connect(SaveQuery)
 
 dlg.show()
 app.exec()
